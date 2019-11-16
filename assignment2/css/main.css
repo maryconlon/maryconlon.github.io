@@ -1,0 +1,61 @@
+body {
+font-family: 'Major Mono Display', monospace;
+max-width: 650px;
+margin: auto;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.photo {
+  font-size: 14px;
+  text-align: center;
+  padding-bottom: 2.5em;
+}
+
+.caption {
+  font-family: 'Muli', sans-serif;
+  font-size: 12px;
+
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  border-radius: 50%;
+  padding: 4px;
+}
+
+.name {
+  style="font-size: 12px;"
+  padding-bottom: 2.5em;
+
+}
+
+hr {
+width: 100%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.listname {
+  font-weight: bold;
+
+}
+
+li {
+line-height:200%
+}
+
+
+.linechart {
+  max-width: 650px;
+}
+
+.body {
+  font-family: 'Muli', sans-serif;
+  font-size: 18px;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
