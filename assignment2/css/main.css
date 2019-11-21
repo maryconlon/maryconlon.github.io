@@ -2,6 +2,8 @@ body {
 font-family: 'Major Mono Display', monospace;
 max-width: 650px;
 margin: auto;
+padding-left: 2%;
+padding-right: 2%;
 }
 
 h2 {
@@ -9,15 +11,12 @@ h2 {
 }
 
 .photo {
-  font-size: 14px;
   text-align: center;
   padding-bottom: 2.5em;
-}
-
-.caption {
   font-family: 'Muli', sans-serif;
   font-size: 12px;
-
+  height: auto;
+  width: 100%;
 }
 
 .fa-twitter {
