@@ -1,0 +1,13 @@
+#topstripe {
+	height: 40px;
+	background-color: #333;
+}
+
+.jumbotron-heading {
+	color: black;
+	font-family: 'Tomorrow', sans-serif;
+}
+
+.lead text-muted {
+	font-family: 'Tomorrow', sans-serif;
+}
