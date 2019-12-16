@@ -1,0 +1,67 @@
+body {
+font-family: 'Metrophobic', sans-serif;
+color: white;
+max-width: 650px;
+margin: auto;
+padding-left: 2%;
+padding-right: 2%;
+background-color: #5D6578;
+
+}
+
+a {
+    color: #00ff00;
+    text-decoration: none;
+}
+
+a:hover {
+  color: #5D6578;
+}
+
+h2 {
+  font-size: 18px;
+  font-style: italic;
+}
+
+hr {
+  border-top: .5px dotted;
+  border-bottom: .5px dotted;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo {
+  text-align: left;
+  padding-bottom: 2.5em;
+  font-family: "Rasmus", Times, serif;
+  font-size: 12px;
+  height: auto;
+  width: 100%;
+  color: #a9b1be;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: -internal-root-color;
+  border-radius: 50%;
+  padding: 4px;
+}
+
+.name {
+  style="font-size: 12px;"
+  padding-bottom: 2.5em;
+  color: #a9b1be;
+}
+
+
+.body {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 18px;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+.link {
+  padding-bottom: 2em;
+}
