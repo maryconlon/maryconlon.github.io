@@ -1,13 +1,21 @@
 #topstripe {
 	height: 40px;
-	background-color: #333;
+	background-color: #d86905;
 }
 
 .jumbotron-heading {
-	color: black;
+	color: #d86905;
 	font-family: 'Tomorrow', sans-serif;
+	font-weight: bold;
 }
 
-.lead text-muted {
-	font-family: 'Tomorrow', sans-serif;
+.text-muted {
+	font-size: 12px;
+	font-family: 'Abril Fatface', cursive;
+
+}
+
+.jumbotron {
+	background-image: url("../images/dauchsund.jpg");
+	background-size: cover;
 }
