@@ -6,21 +6,26 @@ margin: auto;
 padding-left: 2%;
 padding-right: 2%;
 background-color: #5D6578;
-
 }
 
 a {
-    color: #00ff00;
+    color: #c6d9ec;
     text-decoration: none;
 }
 
 a:hover {
-  color: #5D6578;
+  color: #00ff00;
+}
+
+h1 {
+  font-size: 40px;
 }
 
 h2 {
   font-size: 18px;
   font-style: italic;
+  padding-bottom: 2em;
+  padding-top: 1em;
 }
 
 hr {
@@ -35,7 +40,7 @@ hr {
   text-align: left;
   padding-bottom: 2.5em;
   font-family: "Rasmus", Times, serif;
-  font-size: 12px;
+  font-size: 14px;
   height: auto;
   width: 100%;
   color: #a9b1be;
@@ -53,7 +58,6 @@ hr {
   padding-bottom: 2.5em;
   color: #a9b1be;
 }
-
 
 .body {
   font-family: 'Noto Sans KR', sans-serif;
